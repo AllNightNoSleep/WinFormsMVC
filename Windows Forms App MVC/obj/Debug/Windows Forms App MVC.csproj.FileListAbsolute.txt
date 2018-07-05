@@ -1,0 +1,41 @@
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\bin\Debug\Windows Forms App MVC.exe.config
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\bin\Debug\Windows Forms App MVC.exe
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\bin\Debug\Windows Forms App MVC.pdb
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\bin\Debug\EntityFramework.dll
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\bin\Debug\EntityFramework.xml
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\obj\Debug\Windows_Forms_App_MVC.View.Home.Create.resources
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\obj\Debug\Windows_Forms_App_MVC.View.Home.Delete.resources
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\obj\Debug\Windows_Forms_App_MVC.View.Home.Index.resources
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\obj\Debug\Windows_Forms_App_MVC.PageButton.resources
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\obj\Debug\Windows_Forms_App_MVC.MainWindow.resources
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\obj\Debug\Windows_Forms_App_MVC.Properties.Resources.resources
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\obj\Debug\Windows_Forms_App_MVC.View.Shared.SubPageButton.resources
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\obj\Debug\Windows Forms App MVC.csproj.GenerateResource.cache
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\obj\Debug\Windows Forms App MVC.csproj.CoreCompileInputs.cache
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\obj\Debug\Windows Forms App MVC.csproj.CopyComplete
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\obj\Debug\Windows Forms App MVC.exe
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\obj\Debug\Windows Forms App MVC.pdb
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\bin\Debug\Windows Forms App MVC.exe.CodeAnalysisLog.xml
+C:\Users\BCS Employee\source\repos\Windows Forms App MVC\Windows Forms App MVC\bin\Debug\Windows Forms App MVC.exe.lastcodeanalysissucceeded
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\bin\Debug\Windows Forms App MVC.exe.config
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\bin\Debug\Windows Forms App MVC.exe
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\bin\Debug\Windows Forms App MVC.pdb
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\bin\Debug\EntityFramework.dll
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\bin\Debug\EntityFramework.xml
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\obj\Debug\Windows Forms App MVC.csprojAssemblyReference.cache
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\obj\Debug\Windows_Forms_App_MVC.View.Home.Create.resources
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\obj\Debug\Windows_Forms_App_MVC.View.Home.Delete.resources
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\obj\Debug\Windows_Forms_App_MVC.View.Home.Index.resources
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\obj\Debug\Windows_Forms_App_MVC.PageButton.resources
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\obj\Debug\Windows_Forms_App_MVC.MainWindow.resources
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\obj\Debug\Windows_Forms_App_MVC.Properties.Resources.resources
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\obj\Debug\Windows_Forms_App_MVC.View.Shared.SubPageButton.resources
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\obj\Debug\Windows Forms App MVC.csproj.GenerateResource.cache
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\obj\Debug\Windows Forms App MVC.csproj.CoreCompileInputs.cache
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\obj\Debug\Windows Forms App MVC.csproj.CopyComplete
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\obj\Debug\Windows Forms App MVC.exe
+C:\Users\BCS Employee\source\repos\WindowsFormsMVC\Windows Forms App MVC\obj\Debug\Windows Forms App MVC.pdb
